@@ -1,2 +1,3 @@
-# universal
-Sample shared components used in class
+# Universal shared components
+
+This repository contains sample shared components for use with Accentient's DevOps classes.
