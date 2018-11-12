@@ -9,7 +9,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Universal.Logger</description>
     <releaseNotes>Initial release</releaseNotes>
-    <copyright>Copyright 2017</copyright>
+    <copyright>Copyright 2019</copyright>
     <tags>application app logger logging logs worldcup</tags>
   </metadata>
 </package>
